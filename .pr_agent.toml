@@ -1,0 +1,7 @@
+[config]
+model = "anthropic/anthropic/claude-sonnet-4-6"
+fallback_models = ["anthropic/claude-haiku-4-5-20251001"]
+
+[pr_reviewer]
+# レビューコメントの言語設定（日本語にしたい場合）
+extra_instructions = "Please write all review comments in Japanese."
