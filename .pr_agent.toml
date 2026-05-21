@@ -7,4 +7,4 @@ fallback_models = ["anthropic/claude-haiku-4-5-20251001"]
 extra_instructions = "Please write all review comments in Japanese."
 
 [pr_code_suggestions]
-extra_instructions = "Answer in japanese"
+extra_instructions = "Please write all code suggestions in Japanese."
